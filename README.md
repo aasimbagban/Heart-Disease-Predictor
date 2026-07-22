@@ -10,6 +10,8 @@
 > has heart disease using 13 clinical parameters. Built with Python, Scikit-learn,
 > and deployed as a web app using Flask.
 
+### 🌐 [Live Demo → https://heart-disease-predictor-b7us.onrender.com](https://heart-disease-predictor-b7us.onrender.com)
+
 ---
 
 ## 📌 Problem Statement
